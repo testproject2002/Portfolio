@@ -4,7 +4,7 @@ const info = {
         name: "Guhesh Panjagall",
         description: "A passionate Full-Stack Developer with a strong background in both frontend and backend development, I specialize in building scalable, secure, and user-friendly web applications. I love tackling complex challenges and am always eager to learn new technologies. My focus is on writing clean, high-quality code that follows industry standards, ensuring every project is built to last. Let’s create something amazing together!",
         role: "Full-Stack Developer 🚀",
-        photo: "../profile2.jpg",
+        photo: "profile2.jpg",
         email: "guheshpanjagall481@gmail.com",
     },
 
@@ -74,13 +74,13 @@ const info = {
             school: "KLS Gogte Institute of Technology",
             degree: "Bachelor of  Information Science and Engineering ",
             duration: "2020 - 2024",
-            image: "gitlogo.jpeg"
+            image: "../gitlogo.jpeg"
         },
         {
             school: "SIR MV PU COLLEGE - Davangere",
             degree: "PCMB",
             duration: "2018 - 2020",
-            image: "sirmvlogo.png"
+            image: "../sirmvlogo.png"
         },
     ],
 
@@ -90,7 +90,7 @@ const info = {
             position: "Junior Full-Stack Developer",
             company: "Wedding Cluster PVT LTD",
             duration: "SEPTEMPER 2023 - Present",
-            image: "WC LOGO PNG-01.png",
+            image: "../WC LOGO PNG-01.png",
             descriptions: [
                 "Develop and maintain full-stack web applications, handling both frontend and backend tasks to ensure seamless functionality.",
                 "Maintain accurate data management practices, ensuring data integrity and consistency across the application.",
@@ -101,7 +101,7 @@ const info = {
             position: "Full-Stack Developer Intern",
             company: "Wedding Cluster PVT LTD",
             duration: "June 2023 - August 2023 (2 Months)",
-            image: "WC LOGO PNG-01.png",
+            image: "../WC LOGO PNG-01.png",
             descriptions: [
                 "Completed an extensive training program in full-stack web development.",
                 "Actively contributed to the ongoing development of a web application.",
